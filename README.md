@@ -37,7 +37,7 @@ Vue指令,你可以很方便地对页面中所有input和textarea的自动聚焦
 
 ## Example
 
-[例子](https://github.com/yeyuqiudeng/vue-auto-focus/blob/master/src/auto-focus.js)
+[例子](https://github.com/yeyuqiudeng/vue-auto-focus/blob/master/example/example.vue)
     
     <template>
         <form v-auto-focus="focusCtrl" :data-current="currentIndex" :data-action="actionType">
